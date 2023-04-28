@@ -22,6 +22,7 @@ I worked with a few people in class, though it went a bit fast for me to totally
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 For a summarized copy please visit https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+
 For an updated copy please visit https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 
