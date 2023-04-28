@@ -5,11 +5,13 @@
 
 ## Usage
 
-Feel free to reach out to me on the contact form, and browse my Github Projects and portfolio.
+Feel free to reach out to me on the contact form, and browse my Github projects and portfolio.
 
-```md
+
 ![Alt text](./assets/images/contact-form.png "contact form") 
-```
+
+![Alt text](./assets/images/github-portfolio.png "contact form") 
+
 
 ## Credits
 
